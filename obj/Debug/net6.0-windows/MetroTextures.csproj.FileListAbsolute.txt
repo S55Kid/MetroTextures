@@ -1,0 +1,17 @@
+C:\Users\Bidlo\source\repos\MetroTextures\bin\Debug\net6.0-windows\MetroTextures.exe
+C:\Users\Bidlo\source\repos\MetroTextures\bin\Debug\net6.0-windows\MetroTextures.deps.json
+C:\Users\Bidlo\source\repos\MetroTextures\bin\Debug\net6.0-windows\MetroTextures.runtimeconfig.json
+C:\Users\Bidlo\source\repos\MetroTextures\bin\Debug\net6.0-windows\MetroTextures.dll
+C:\Users\Bidlo\source\repos\MetroTextures\bin\Debug\net6.0-windows\MetroTextures.pdb
+C:\Users\Bidlo\source\repos\MetroTextures\obj\Debug\net6.0-windows\MetroTextures.csproj.AssemblyReference.cache
+C:\Users\Bidlo\source\repos\MetroTextures\obj\Debug\net6.0-windows\MetroTextures.MainWindow.resources
+C:\Users\Bidlo\source\repos\MetroTextures\obj\Debug\net6.0-windows\MetroTextures.csproj.GenerateResource.cache
+C:\Users\Bidlo\source\repos\MetroTextures\obj\Debug\net6.0-windows\MetroTextures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bidlo\source\repos\MetroTextures\obj\Debug\net6.0-windows\MetroTextures.AssemblyInfoInputs.cache
+C:\Users\Bidlo\source\repos\MetroTextures\obj\Debug\net6.0-windows\MetroTextures.AssemblyInfo.cs
+C:\Users\Bidlo\source\repos\MetroTextures\obj\Debug\net6.0-windows\MetroTextures.csproj.CoreCompileInputs.cache
+C:\Users\Bidlo\source\repos\MetroTextures\obj\Debug\net6.0-windows\MetroTextures.dll
+C:\Users\Bidlo\source\repos\MetroTextures\obj\Debug\net6.0-windows\refint\MetroTextures.dll
+C:\Users\Bidlo\source\repos\MetroTextures\obj\Debug\net6.0-windows\MetroTextures.pdb
+C:\Users\Bidlo\source\repos\MetroTextures\obj\Debug\net6.0-windows\MetroTextures.genruntimeconfig.cache
+C:\Users\Bidlo\source\repos\MetroTextures\obj\Debug\net6.0-windows\ref\MetroTextures.dll
